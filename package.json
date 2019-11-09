@@ -1,5 +1,5 @@
 {
-  "name": "truffle-shavings",
+  "name": "sheetcoin",
   "version": "2.0.2",
   "description": "Truffle Boilerplate with solium, linguist, zeppelin, migrations, tests &tc",
   "scripts": {

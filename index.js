@@ -1,5 +1,7 @@
-var Sample = require('./build/contracts/Sample.json')
+var Sheetcoin = require('./build/contracts/Sheetcoin.json')
+var SheetcoinController = require('./build/contracts/SheetcoinController.json')
 
 module.exports = {
-  Sample: Sample
+  Sheetcoin: Sheetcoin,
+  SheetcoinController: SheetcoinController
 }

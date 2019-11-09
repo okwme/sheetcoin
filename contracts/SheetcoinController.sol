@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/cryptography/ECDSA.sol";
 /**
  * The Sheetcoin contract does this and that...
  */
-contract Sheetcoin is Ownable {
+contract SheetcoinController is Ownable {
     
     using ECDSA for bytes32;
     IERC20 token;

@@ -6,13 +6,13 @@ module.exports = {
     develop: {
       provider() {
         return new HDWalletProvider(
-          process.env.TRUFFLE_MNEMONIC,
-          'http://localhost:9545/'
+          process.env.TESTNET_MNEMONIC,
+          'http://localhost:8545/'
         )
       },
       host: 'localhost',
-      port: 9545,
-      network_id: 4447
+      port: 8545,
+      network_id: 1234
     },
     ganache: {
       provider() {
