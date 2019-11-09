@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@openzeppelin/contracts@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-2.4.0.tgz#7270f79ed1463370fe6e664d36a779aa4d3ee896"
+  integrity sha512-xeKP59REgow5TPBJh3S9BRIm7DDG+Rz3Nt4ANWGUkjk4305DHpyUD5CyMJ6nd2JMmZuFyx4mjvvlCtSJLRnN6w==
+
 "@resolver-engine/core@^0.2.1":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@resolver-engine/core/-/core-0.2.1.tgz#0d71803f6d3b8cb2e9ed481a1bf0ca5f5256d0c0"
@@ -1543,10 +1548,10 @@ once@^1.3.0:
   dependencies:
     wrappy "1"
 
-openzeppelin-solidity@^2.1.1:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-2.2.0.tgz#1f0e857f53bda29b77a8e72f9a629db81015fd34"
-  integrity sha512-HfQq0xyT+EPs/lTWEd5Odu4T7CYdYe+qwf54EH28FQZthp4Bs6IWvOlOumTdS2dvpwZoTXURAopHn2LN1pwAGQ==
+openzeppelin-solidity@2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-2.1.3.tgz#34aea40c2d05665f0dd6bc021e48516cf25b1ef6"
+  integrity sha512-Zz595xw6w4ZrNU3JJJTlPd8bHFbHv5OkJlkqsM2i+NBs6CzImoHI3dZ+nmhkfR+p52cGXKmayAGbnfdCum1SMg==
 
 original-require@1.0.1:
   version "1.0.1"
